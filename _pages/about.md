@@ -20,12 +20,103 @@ Through projects like multilocus sequence typing of Clostridioides difficile and
 
 Getting started
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+{% if site.author.googlescholar %}
+
+  <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=-vdE38oAAAAJ&view_op=list_works&gmla=ABOlHixm5auLtbnRK72mfyKPNneo3JfjP69NZp_VZPg2soz7Q85doGSrSyPfRKWPXsGHGTin2fAzjN47_GFkJbP5">my Google Scholar profile</a>.</div>
+
+{% endif %}
+
+
+
+{% include base_path %}
+
+
+
+<!-- List of Publications -->
+
+<h2>Selected Publications</h2><hr />
+
+
+
+<ul>
+
+  <li><strong>Characterization of the Mucosal Microbiota in Patients with Nodular Lymphoid Hyperplasia with Concurrent Irritable Bowel Syndrome Compared to Healthy Controls</strong><br>
+
+    <em>Molecular Biology Reports</em>, Springer, 2023.<br>
+
+    <a href="https://doi.org/10.1007/s11033-022-07974-1">DOI: 10.1007/s11033-022-07974-1</a>
+
+  </li>
+
+  <br>
+
+
+
+  <li><strong>Characterization of Vaginal <em>Lactobacillus</em> Species as a Predictor of Fertility Among Iranian Women with Unexplained Recurrent Miscarriage Using Machine Learning Modeling</strong><br>
+
+    <em>Molecular Biology Reports</em>, Springer, 2023.<br>
+
+    <a href="https://doi.org/10.1007/s11033-023-08745-2">DOI: 10.1007/s11033-023-08745-2</a>
+
+  </li>
+
+  <br>
+
+
+
+  <li><strong>The Human Oral Microbiota: A Gateway to Pancreatic Health and Disease and Revolutionary Therapeutic Strategies</strong><br>
+
+    <em>Submitted to Trends in Molecular Medicine</em>, 2024.<br>
+
+    *Currently under review*
+
+  </li>
+
+  <br>
+
+
+
+  <li><strong>Protective Effects of Live and Pasteurized <em>Lactobacillus crispatus</em> Strain RIGLD-1 Against Non-Alcoholic Steatohepatitis Induced in HepG2 Cells</strong><br>
+
+    <em>Under review in Molecular Biology Reports</em>, Springer, 2024.<br>
+
+    *Currently under review*
+
+  </li>
+
+  <br>
+
+
+
+  <li><strong>Inhibitory Effects of Probiotic <em>Levilactobacillus brevis</em> IBRC-M10790 and Its Membrane Vesicles on Apoptosis and Inflammation Induced by <em>Clostridioides difficile</em> in Intestinal Epithelial Cells</strong><br>
+
+    <em>BMC Microbiology</em>, Springer, 2023.<br>
+
+    <a href="https://doi.org/10.1007/s11033-023-08745-2">DOI: 10.1007/s11033-023-08745-2</a>
+
+  </li>
+
+  <br>
+
+
+
+  <li><strong>Investigating Changes in <em>PTPN11</em> Gene Expression in Response to <em>Lactobacillus crispatus</em> Extract in ENSC Uterine Cell Line</strong><br>
+
+    *Currently under review*
+
+  </li>
+
+  <br>
+
+
+
+  <li><strong>The Gut Microbiota Shapes Performance Level in Professional and Semi-Professional Runners</strong><br>
+
+    *Currently under review*
+
+  </li>
+
+</ul>
 
 Site-wide configuration
 ------
