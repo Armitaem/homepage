@@ -18,111 +18,33 @@ My work as a researcher in a microbiology lab at the Research Institute for Gast
 Through projects like multilocus sequence typing of Clostridioides difficile and studying the protective effects of Lactobacillus crispatus in liver disease models, I’ve developed expertise in microbiome analysis, gene expression profiling, and computational biology techniques. Teaching biology alongside my research allows me to inspire students and share my excitement for uncovering the mysteries of life through both laboratory work and data analysis.
 
 
-Getting started
+New
 ======
-{% if site.author.googlescholar %}
+1. October 2024 – Exploring the Role of Non-Coding RNA in NAFLD and Lactobacillus Therapy
+               We’re thrilled to announce the second phase of our project on non-alcoholic fatty liver disease (NAFLD) and the therapeutic potential of Lactobacillus strains! This time, we’re using RNA sequencing to dive deeper into non-coding RNAs that may influence NAFLD. Our goal is to identify specific non-coding RNAs that respond to Lactobacillus therapy and to understand how these RNAs could help protect liver health. Stay tuned as we uncover the next chapter in this exciting project!
 
-  <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=-vdE38oAAAAJ&view_op=list_works&gmla=ABOlHixm5auLtbnRK72mfyKPNneo3JfjP69NZp_VZPg2soz7Q85doGSrSyPfRKWPXsGHGTin2fAzjN47_GFkJbP5">my Google Scholar profile</a>.</div>
-
-{% endif %}
-
-
-
-{% include base_path %}
+1. June 2024 – New Project Launched on Bacterial Toxins and Autophagy! 
+               Exciting news! We’ve assembled a talented team to investigate the impact of bacterial toxins on autophagy. Our project will begin with an in-depth review of current knowledge in the field, setting the stage for future in vivo experiments to explore how these toxins might influence cellular cleanup processes like autophagy. We hope this work will open doors to new insights into how pathogenic bacteria interact with human cells and contribute to diseases.
 
 
 
-<!-- List of Publications -->
-
-<h2>Selected Publications</h2><hr />
-
-
-
-<ul>
-
-  <li><strong>Characterization of the Mucosal Microbiota in Patients with Nodular Lymphoid Hyperplasia with Concurrent Irritable Bowel Syndrome Compared to Healthy Controls</strong><br>
-
-    <em>Molecular Biology Reports</em>, Springer, 2023.<br>
-
-    <a href="https://doi.org/10.1007/s11033-022-07974-1">DOI: 10.1007/s11033-022-07974-1</a>
-
-  </li>
-
-  <br>
+1. February 2024 – Upcoming Publication on Gut Microbiota and Physical Performance!
+                Our research on the connection between gut microbiota and physical performance is about to make waves! We’re thrilled to share that our findings, soon to be published in Scientific Reports, reveal how specific microbiota compositions could shape athletic performance. By studying both professional and semi-professional athletes, we’ve identified fascinating patterns in gut health that might one day help optimize training and performance. We can’t wait for the scientific community to dive into these findings!
 
 
 
-  <li><strong>Characterization of Vaginal <em>Lactobacillus</em> Species as a Predictor of Fertility Among Iranian Women with Unexplained Recurrent Miscarriage Using Machine Learning Modeling</strong><br>
+1. November 2023 – Investigating Akkermansia muciniphila’s Role in Apoptosis in Intestinal Cells
+               Our team has been hard at work studying the effects of Akkermansia muciniphila, a key gut bacterium, on apoptosis in Caco-2 cells. This research could have important implications for gut health, as apoptosis (or programmed cell death) is critical in maintaining a healthy gut lining. We’re thrilled to share that our findings are currently under review for publication—stay tuned for more updates on how A. muciniphila might help balance cell turnover and gut health!
 
-    <em>Molecular Biology Reports</em>, Springer, 2023.<br>
-
-    <a href="https://doi.org/10.1007/s11033-023-08745-2">DOI: 10.1007/s11033-023-08745-2</a>
-
-  </li>
-
-  <br>
+1. April 2023 – Gut-Brain Axis and Alzheimer’s Disease: New In Vitro Study  
+                Can gut health influence brain health? We’re diving into this question by studying the impact of gut microbiota on Alzheimer’s disease markers. Using an in vitro model, our team is exploring how gut-derived compounds might impact cellular processes involved in neurodegeneration. This project combines microbiology with neurobiology and could provide early clues for potential therapeutic pathways. We’re excited to see where this innovative research takes us!
 
 
-
-  <li><strong>The Human Oral Microbiota: A Gateway to Pancreatic Health and Disease and Revolutionary Therapeutic Strategies</strong><br>
-
-    <em>Submitted to Trends in Molecular Medicine</em>, 2024.<br>
-
-    *Currently under review*
-
-  </li>
-
-  <br>
-
-
-
-  <li><strong>Protective Effects of Live and Pasteurized <em>Lactobacillus crispatus</em> Strain RIGLD-1 Against Non-Alcoholic Steatohepatitis Induced in HepG2 Cells</strong><br>
-
-    <em>Under review in Molecular Biology Reports</em>, Springer, 2024.<br>
-
-    *Currently under review*
-
-  </li>
-
-  <br>
-
-
-
-  <li><strong>Inhibitory Effects of Probiotic <em>Levilactobacillus brevis</em> IBRC-M10790 and Its Membrane Vesicles on Apoptosis and Inflammation Induced by <em>Clostridioides difficile</em> in Intestinal Epithelial Cells</strong><br>
-
-    <em>BMC Microbiology</em>, Springer, 2023.<br>
-
-    <a href="https://doi.org/10.1007/s11033-023-08745-2">DOI: 10.1007/s11033-023-08745-2</a>
-
-  </li>
-
-  <br>
-
-
-
-  <li><strong>Investigating Changes in <em>PTPN11</em> Gene Expression in Response to <em>Lactobacillus crispatus</em> Extract in ENSC Uterine Cell Line</strong><br>
-
-    *Currently under review*
-
-  </li>
-
-  <br>
-
-
-
-  <li><strong>The Gut Microbiota Shapes Performance Level in Professional and Semi-Professional Runners</strong><br>
-
-    *Currently under review*
-
-  </li>
-
-</ul>
-
-Site-wide configuration
+Selected Publications
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
+CV
 ------
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
@@ -138,6 +60,4 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
